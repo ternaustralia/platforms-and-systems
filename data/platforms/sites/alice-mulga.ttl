@@ -1,0 +1,6 @@
+PREFIX tern: <https://w3id.org/tern/ontologies/tern/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+<https://w3id.org/tern/resources/e729eba7-215a-4626-9d13-feece79c41ad> a tern:Site ;
+    rdfs:label "Alice Mulga" ;
+.

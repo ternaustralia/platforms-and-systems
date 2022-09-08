@@ -1,0 +1,11 @@
+pyshacl==0.17.2
+rdflib>=6.1.0,<6.2.0
+https://github.com/ternaustralia/ontotools/archive/refs/tags/0.6.2.zip
+pytest
+pytest-cov
+pytest-mock
+pytest-skip-slow
+black
+isort
+rich
+wheel
